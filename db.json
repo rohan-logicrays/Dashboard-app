@@ -1,0 +1,52 @@
+{
+  "pie": [
+    {
+      "value": "3",
+      "label": "item1",
+      "color": "#ff9d4d",
+      "id": 1
+    },
+    {
+      "value": "6",
+      "label": "item2",
+      "color": "#f0dd0a",
+      "id": 2
+    },
+    {
+      "value": "9",
+      "label": "item3",
+      "color": "#08e7c2",
+      "id": 3
+    },
+    {
+      "value": "12",
+      "label": "item4",
+      "color": "#1fff39",
+      "id": 4
+    },
+    {
+      "value": "15",
+      "label": "item5",
+      "color": "#0905ff",
+      "id": 5
+    },
+    {
+      "value": "18",
+      "label": "item6",
+      "color": "#ff7070",
+      "id": 6
+    },
+    {
+      "value": "21",
+      "label": "item7",
+      "color": "#9f0fff",
+      "id": 7
+    },
+    {
+      "value": "24",
+      "label": "item8",
+      "color": "#ff5cab",
+      "id": 8
+    }
+  ]
+}
